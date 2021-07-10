@@ -12,4 +12,4 @@ A front-end web development mini project
 3. GIFs used
 
 ## Screenshots - 
-
+https://github.com/abhiii-09/knowYourFest/blob/main/screenshots/aboutUs.png
