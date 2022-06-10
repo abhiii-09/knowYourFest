@@ -13,3 +13,9 @@ A front-end web development mini project
 
 ## Screenshots - 
 
+
+![](https://github.com/abhiii-09/knowYourFest/blob/main/screenshots/index.png)
+
+![](https://github.com/abhiii-09/knowYourFest/blob/main/screenshots/aboutUs.png)
+
+![](https://github.com/abhiii-09/knowYourFest/blob/main/screenshots/contactUs.png)
