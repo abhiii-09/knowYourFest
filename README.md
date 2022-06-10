@@ -1,5 +1,5 @@
 # Know Your Fest
-A front-end web development mini project
+A full stack web development mini project
 
 ## Technologies Used - 
 1. HTML
